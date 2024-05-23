@@ -1,0 +1,16 @@
+{
+    "name": "com.daigan.unity",
+    "displayName": "Unity Utility Library",
+    "description": "Helpers to startup a Unity Project fast",
+    "version": "0.1.0",
+    "keywords": [
+      "extensions"
+    ],
+    "category": "editor extensions",
+    "dependencies": {},
+    "author": {
+      "name": "Daigan",
+      "url": "https://github.com/DaiganIT"
+    },
+    "documentationUrl": "https://github.com/DaiganIT/UnityCommon/blob/main/README.md"
+  }
